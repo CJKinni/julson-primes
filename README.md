@@ -1,5 +1,5 @@
 # Julson-Primes
-🍰A tool to find Julson Primes (additive primes)
+🤓 A tool to find Julson Primes (additive primes)
 
 My coworker and I were discussing prime numbers, and he was thinking about prime numbers where the sum of their digits is also a prime number.  It turns out these are called [additive primes](http://prime-numbers.wikia.com/wiki/Additive_Primes), but that's boring.  So I'm calling them Julson primes.  I wrote a script to see how many there were, compared to regular primes.
 
