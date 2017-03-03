@@ -7,7 +7,7 @@ The number it will search up to as an argument.
 
 The script lists out all primes, but it will include " Julson" next to the prime if it is a Julson Prime.
 
-The file 'first_million.md', included in this repository, contains the output for `ruby find_julson_primes.rb 1000000`
+The file 'first_million.txt', included in this repository, contains the output for `ruby find_julson_primes.rb 1000000`
 
 Here is a list of the first thousand Julson Primes:
 
